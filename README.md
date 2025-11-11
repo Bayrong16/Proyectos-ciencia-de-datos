@@ -1,7 +1,9 @@
 Hola!!! bienvenido a mi repositorio de proyectos de ciencia de datos, por ahora aquí encontrarás: 
-2 notebooks de python con
+2 notebooks de python con:
+
 -1 proyecto relacionado a análisis de energía, llamado analisis_energia. (sector energético) 
 -1 proyecto relacionado a datos operativos de una empresa de energía, llamado analisis_op_plantas. (sector energético)
+-1 proyecto relacionado a riesgo crediticio en el que aplico ML de regresión y otras técnicas de reducción de multocinelidad par mejorar el modelo.
 Solo tienes que hacer click en cualquiera de los notebooks para poder ver el análisis exploratorio y las visualizaciones.
 En los notebooks demuestro mi habiildad para manipular datos en python y realizar importantes gráficos que aportan valor a los análisis.
 
