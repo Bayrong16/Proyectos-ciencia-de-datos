@@ -26,13 +26,13 @@ Este repositorio también incluye dos dashboards construidos en Tableau sobre da
 Puedes verlos online aquí:
 
 Dashboard 1:
-![Dashboard 1](imagenes/DshB1.png)
+![Dashboard 1](images/DshB1.png)
 
 
 👉 https://public.tableau.com/shared/QPPNJ3FMY?:display_count=n&:origin=viz_share_link
 
 Dashboard 2:
-![Dashboard 2](imagenes/DshB2.png)
+![Dashboard 2](images/DshB2.png)
 👉 https://public.tableau.com/views/Tarea2-Visualizacion_17610737857380/Dshb22?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 También encontrarás el archivo descargable:
