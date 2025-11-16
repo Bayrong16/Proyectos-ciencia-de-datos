@@ -1,21 +1,45 @@
-Hola!!! bienvenido a mi repositorio de proyectos de ciencia de datos, por ahora aquí encontrarás: 
-2 notebooks de python con:
+📊 Proyectos de Ciencia de Datos
 
--1 proyecto relacionado a análisis de energía, llamado analisis_energia. (sector energético) 
+¡Hola! 👋 Bienvenido a mi repositorio de proyectos de Ciencia de Datos.
+Aquí encontrarás análisis reales, notebooks interactivos, visualizaciones y modelos aplicados principalmente al sector energético y riesgo crediticio.
 
--1 proyecto relacionado a datos operativos de una empresa de energía, llamado analisis_op_plantas. (sector energético)
+📁 Contenido del repositorio
+🔹 Notebooks de Python
 
--1 proyecto relacionado a riesgo crediticio en el que aplico ML de regresión y otras técnicas de reducción de multocinelidad par mejorar el modelo.
+analisis_energia.ipynb
+Proyecto enfocado en el análisis de datos energéticos.
+Incluye exploración de datos, métricas clave del sector y visualizaciones.
 
-Solo tienes que hacer click en cualquiera de los notebooks para poder ver el análisis exploratorio y las visualizaciones.
-En los notebooks demuestro mi habiildad para manipular datos en python y realizar importantes gráficos que aportan valor a los análisis.
+analisis_op_plantas.ipynb
+Análisis de datos operativos de una empresa del sector energía.
+Se exploran KPIs operativos y se generan gráficos relevantes para la toma de decisiones.
 
-Dashboards: 
-hay dos imagenes de visualizaciones implementadas en Tableau, sobre el anális de datos operativos de la empresa de energía DshB1 y DshB2, puedes acceder a la visualizacion online completa mediante los siguientes enlaces:
-(dashboard 1) https://public.tableau.com/shared/QPPNJ3FMY?:display_count=n&:origin=viz_share_link 
+analisis_riesgo_crediticio.ipynb
+Proyecto de riesgo crediticio aplicando Machine Learning (modelos de regresión) y técnicas para el manejo de multicolinealidad (VIF, regularización, etc.).
 
-(dashboard 2) https://public.tableau.com/views/Tarea2-Visualizacion_17610737857380/Dshb22?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+💡 Solo haz click en cualquier notebook para ver el análisis exploratorio, código y visualizaciones.
+En estos notebooks demuestro mi habilidad en manipulación de datos, EDA y gráficos en Python.
 
-Tambien  está el archivo descargable: dashboards.twb con todas las vsualizaciones reliazadas en Tableau
+📊 Dashboards en Tableau
 
-Adicional encuentras un archivo de datos xlsx para el analisis operativo de la empresa de energía.
+Este repositorio también incluye dos dashboards construidos en Tableau sobre datos operativos del sector energético.
+Puedes verlos online aquí:
+
+Dashboard 1:
+👉 https://public.tableau.com/shared/QPPNJ3FMY?:display_count=n&:origin=viz_share_link
+
+Dashboard 2:
+👉 https://public.tableau.com/views/Tarea2-Visualizacion_17610737857380/Dshb22?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+También encontrarás el archivo descargable:
+📁 dashboards.twb — Contiene todas las visualizaciones creadas en Tableau.
+
+📂 Datos
+
+Se incluye un archivo Excel con datos operativos utilizados en los análisis:
+
+datos_operativos.xlsx
+
+🙌 Gracias por visitar este repositorio
+
+Si te interesa alguno de los análisis o quieres comentarme algo, ¡estaré atento!
