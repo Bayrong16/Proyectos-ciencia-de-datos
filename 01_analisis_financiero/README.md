@@ -13,7 +13,7 @@ Durante la fase de exploración se identificó una anomalía crítica: **las gan
 
 A continuación se presenta la visualización que justifica y demuestra esta conclusión:
 
-![Análisis de Ganancias y Ventas por Segmento](01_analisis_financiero/images/ganancia_y_ventas.png)
+![Análisis de Ganancias y Ventas por Segmento](01_analisis_financiero/images/ganancia_ventas.png)
 
 ### ⚙️ Ingeniería de Características y Preparación para Machine Learning
 Para garantizar la calidad de los datos antes de ser transferidos a un modelo predictivo de Machine Learning, se aplicaron las siguientes técnicas de ingeniería de características:
