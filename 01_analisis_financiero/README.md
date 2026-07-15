@@ -39,7 +39,6 @@ Para garantizar la calidad de los datos antes de entrenar los modelos predictivo
 ![variables iniciales](./images/cor2.png)
 ![variables finales](./images/variables.png)
 
-
 ### 🤖 Modelado Predictivo y Regularización
 Una vez refinado el conjunto de datos, se procedió a la fase de experimentación y entrenamiento:
 
@@ -48,4 +47,4 @@ Una vez refinado el conjunto de datos, se procedió a la fase de experimentació
 3. **Optimización (Regularización):** Finalmente, aplicamos técnicas de regularización **Ridge (L2)** y **Lasso (L1)** con el objetivo de mitigar el sobreajuste (overfitting) y maximizar la capacidad de generalización de los modelos con datos nuevos.
 
 ---
-🔗 *[Volver al menú principal](../README.md)*
+🔗 *[Volver al menú principal](./README.md)*
