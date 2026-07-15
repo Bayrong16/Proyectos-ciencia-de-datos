@@ -31,5 +31,18 @@ Aquí se puede observar la estructura final de relaciones del conjunto de datos 
 > 🚧 **Proyecto en Desarrollo**
 > Actualmente me encuentro trabajando en esta sección. Aquí se incluirá el análisis detallado, la metodología de evaluación del riesgo de crédito y los modelos de regresión aplicados.
 
+### ⚙️ Ingeniería de Características y Selección de Variables
+Para garantizar la calidad de los datos antes de entrenar los modelos predictivos, se aplicó un pipeline completo de preparación:
+* **Codificación de Variables:** Transformación de características categóricas para su correcto procesamiento numérico.
+* **Reducción de Multicolinealidad:** Se analizó la relación entre variables mediante una **matriz de correlación** y el cálculo del Factor de Inflación de la Varianza (**VIF**).
+* **Selección de Atributos:** Gracias a este proceso, **logramos reducir el set de variables de 26 a solo 10**, seleccionando únicamente las más útiles para la construcción de los modelos.
+
+### 🤖 Modelado Predictivo y Regularización
+Una vez refinado el conjunto de datos, se procedió a la fase de experimentación y entrenamiento:
+
+1. **Modelos Base:** Se implementaron y compararon modelos de **Regresión Lineal Simple** y **Regresión Polinómica**.
+2. **Evaluación:** El desempeño de cada estructura se midió rigurosamente utilizando el Error Cuadrático Medio (**MSE**).
+3. **Optimización (Regularización):** Finalmente, aplicamos técnicas de regularización **Ridge (L2)** y **Lasso (L1)** con el objetivo de mitigar el sobreajuste (overfitting) y maximizar la capacidad de generalización de los modelos con datos nuevos.
+
 ---
 🔗 *[Volver al menú principal](../README.md)*
