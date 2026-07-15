@@ -29,7 +29,6 @@ Aquí se puede observar la estructura final de relaciones del conjunto de datos 
 ## 🛡️ 2. Análisis de Datos de Riesgo Crediticio
 
 > 🚧 **Proyecto en Desarrollo**
-> Actualmente me encuentro trabajando en esta sección. Aquí se incluirá el análisis detallado, la metodología de evaluación del riesgo de crédito y los modelos de regresión aplicados.
 
 ### ⚙️ Ingeniería de Características y Selección de Variables
 Para garantizar la calidad de los datos antes de entrenar los modelos predictivos, se aplicó un pipeline completo de preparación:
