@@ -34,7 +34,11 @@ Aquí se puede observar la estructura final de relaciones del conjunto de datos 
 Para garantizar la calidad de los datos antes de entrenar los modelos predictivos, se aplicó un pipeline completo de preparación:
 * **Codificación de Variables:** Transformación de características categóricas para su correcto procesamiento numérico.
 * **Reducción de Multicolinealidad:** Se analizó la relación entre variables mediante una **matriz de correlación** y el cálculo del Factor de Inflación de la Varianza (**VIF**).
-* **Selección de Atributos:** Gracias a este proceso, **logramos reducir el set de variables de 26 a solo 10**, seleccionando únicamente las más útiles para la construcción de los modelos.
+* **Selección de Atributos:** Gracias a este proceso, **logramos reducir el set de variables de 26 a solo 11**, seleccionando únicamente las más útiles para la construcción de los modelos.
+
+![variables iniciales](./images/cor2.png)
+![variables finales](./images/variables.png)
+
 
 ### 🤖 Modelado Predictivo y Regularización
 Una vez refinado el conjunto de datos, se procedió a la fase de experimentación y entrenamiento:
