@@ -32,6 +32,12 @@ Haz clic en el título de cada sección para explorar el código, las visualizac
 
 ![grafico_principal](02_analisis_energia/images/dash_op_2.png).
 
+* **Reporte de Gestión de medidores / Fronteras comerciales**
+* En este reporte utilizo Power Bi para presentar un reporte con los principales hallazgos luego de analizar los datos.
+* * **Insight Clave:** 3 Medidores con 100% de fallos, con decisión de tomar acciones inmediatas
+
+![grafico_secundario](02_analisis_energia/images/dash_med.png).
+
 
 ### ⚡ [3. Proyectos relacionados a Inteligencia Artificial](./03_ai_applications)
 * **¿De qué trata?** 🤖 Repositorio de proyectos enfocados en **AI Engineering**, donde se desarrollan aplicaciones y servicios utilizando **Python**, **FastAPI** y **modelos de inteligencia artificial**. 🚀 Los proyectos incluyen integración con **LLMs**, desarrollo de **APIs REST**, procesamiento de lenguaje natural (PLN/NLP), automatización de procesos, análisis de texto y soluciones orientadas a datos. 📊 El objetivo es aplicar **buenas prácticas de desarrollo**, arquitecturas escalables y herramientas modernas de IA para construir soluciones prácticas e integrarlas en aplicaciones reales.
