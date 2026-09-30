@@ -37,4 +37,4 @@ Haz clic en el título de cada sección para explorar el código, las visualizac
 ---
 
 ## 📫 Contacto y Conectividad
-* **LinkedIn:** [Tu Nombre de Perfil](https://www.linkedin.com/in/bayron-a-guamá-5651bb364) 
+* **LinkedIn:** [Ingeniero/ Analista Bayron Andrés Guamá](https://www.linkedin.com/in/bayron-a-guamá-5651bb364) 
