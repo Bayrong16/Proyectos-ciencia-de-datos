@@ -37,13 +37,26 @@ Este gráfico permite identificar cuáles son las plantas que presentan mayor ti
 -
 ![Análisis de Indisponibilidades](./images/dash_op_3.png)
 
-
-
----
-
 ## 📌 Conclusiones del Análisis
 * **Identificación de Cuellos de Botella:** El análisis del archivo de indisponibilidades reveló que el 80% del tiempo de inactividad no programado se concentra en dos tipos específicos de fallas mecánicas.
 * **Eficiencia Operativa:** Se detectaron patrones estacionales en el rendimiento de las plantas, lo que permite planificar los mantenimientos preventivos en las épocas de menor demanda energética.
+
+
+### 2. Análisis de Registros de Medidores / Fronteras comerciales
+
+En este reporte análizamos la **operación y fallas de medidores** mediante un reporte ejecutivo para priorizar el mantenimiento técnico:
+
+* **Pico en enero:** Aumentaron notablemente las llamadas tanto exitosas como fallidas.
+* **Acción urgente (Falla total):** 3 medidores en frontera comercial no responden y requieren cambio físico o revisión técnica inmediata.
+* **Atención prioritaria:** Identificación de un grupo con alta tasa de fallos para intervención en campo.
+* **Contraste final:** Comparativa visual por medidor de llamadas totales frente a su balance de éxito y falla.
+
+* Dashboard:
+![Análisis medidores](./images/dash_med.png)
+
+---
+
+
 
 ---
 🔗 *[Volver al menú principal](../README.md)*
