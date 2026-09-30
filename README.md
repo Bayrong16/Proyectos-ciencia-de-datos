@@ -30,6 +30,8 @@ Haz clic en el título de cada sección para explorar el código, las visualizac
 * **¿De qué trata?** Análisis del rendimiento de plantas de generación eléctrica y optimización operativa. Incluye el procesamiento y limpieza de registros de fallas para identificar las causas raíz de la inactividad y planificar mantenimientos preventivos.
 * **Insight Clave:** Identificación de patrones estacionales de demanda y cuellos de botella mecánicos que acumulaban el 80% del tiempo de inactividad no programado.
 
+![grafico_principal](02_analisis_energia/images/dash_op_2.png).
+
 
 ### ⚡ [3. Proyectos relacionados a Inteligencia Artificial](./03_ai_applications)
 * **¿De qué trata?** 🤖 Repositorio de proyectos enfocados en **AI Engineering**, donde se desarrollan aplicaciones y servicios utilizando **Python**, **FastAPI** y **modelos de inteligencia artificial**. 🚀 Los proyectos incluyen integración con **LLMs**, desarrollo de **APIs REST**, procesamiento de lenguaje natural (PLN/NLP), automatización de procesos, análisis de texto y soluciones orientadas a datos. 📊 El objetivo es aplicar **buenas prácticas de desarrollo**, arquitecturas escalables y herramientas modernas de IA para construir soluciones prácticas e integrarlas en aplicaciones reales.
