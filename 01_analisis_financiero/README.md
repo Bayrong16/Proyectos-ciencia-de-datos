@@ -23,17 +23,6 @@ A continuación se presentan algunos screenshots del dashboard realizado.
 ![Dashboar principal](./images/dash_01.png)
 ![Dashboar principal](./images/dash_02.png).
 
-### ⚙️ Ingeniería de Características y Preparación para Machine Learning
-Para garantizar la calidad de los datos antes de ser transferidos a un modelo predictivo de Machine Learning, se aplicaron las siguientes técnicas de ingeniería de características:
-* **Codificación de Variables:** Se transformaron las variables categóricas mediante la técnica de *One-Hot Encoding*.
-* **Control de Multicolinealidad:** Se evaluó el Factor de Inflación de la Varianza (**VIF**) para identificar y remover características altamente correlacionadas, asegurando la estabilidad de un futuro modelo.
-
-Aquí se puede observar la estructura final de relaciones del conjunto de datos procesado (pasamos de 10 carácteristicas a 7):
-
-![Matriz de Correlación Final](./images/matriz_correlacion.png)
-
-
-
 ## 📝 2. Análisis de Datos Financieros
 
 En este proyecto se realizó un análisis exhaustivo de datos financieros utilizando **Python** y su ecosistema de librerías especializadas, cubriendo desde la preparación inicial de los datos hasta su puesta a punto para el modelado predictivo.
