@@ -27,17 +27,17 @@ A continuación, se presentan los gráficos más relevantes del comportamiento e
 Este gráfico permite identificar cuáles son las plantas que presentan mayor tiempo de inactividad y si se debe a mantenimientos programados o a fallas imprevistas.
 
 **Causas frecuentes de indisponibilidad, donde lo importante es identificar de manera rápida las principales causas.**
+-
 ![Análisis de Indisponibilidades](./images/dash_op1.png)
 
 **Gráfico de matriz para identificar de forma ágil y clara las centrales de generación con más eventos. La escala de color ayuda en gran medida**
-![Análisis de Indisponibilidades] (./images/dash_op_2.png)
-
+![Análisis de Indisponibilidades](./images/dash_op_2.png)
+-
 **Gráfico de línea para contrastar y comparar el número de eventos através de los años de análisis**
-![Análisis de Indisponibilidades] (./images/dash_op_3.png)
+-
+![Análisis de Indisponibilidades](./images/dash_op_3.png)
 
 
-
-![Curva de Energía](./images/curva_energia.png)
 
 ---
 
