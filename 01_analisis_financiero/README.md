@@ -1,6 +1,38 @@
 # 📊 Análisis Financiero y Riesgo de Crédito
+## 📝 1. Análisis de Datos Comerciales / Dashboard en Power Bi / Modelado de datos
 
-## 📝 1. Análisis de Datos Financieros
+En este proyecto se realizó un análisis y visualización de datos comerciales utilizando **Power BI**, cubriendo desde la preparación inicial de los datos, el modelado de los datos, creación de medidas con DAX, uso de Powerquery para transformación de datos y finalmente diferentes visualizaciones utilizando los recursos disponibles y las medidas creadas.
+
+### 🔍 Cargue de los datos
+* **Base de datos Comerciales:** Se utilizó una base de datos comerciales en formato .csv (9 archivos separados) la cual contiene más de **100,000** pedidos registrados durante 2 años en un país de Latinoamérica. Cubre múltiples dimensiones: clientes, vendedores, productos, pagos, tiempos de envío y valoraciones.
+
+* **Modelado de datos:** Se pudo estructurar un modelo en estrella (Star Schema) relacionando tablas de hechos (Orders, Order Items) con dimensiones (Customers, Products, Sellers). Adicional se creó una tabla de dates para manejar fechas. 
+
+* **Visualizaciones:** 
+En el Dashboard se realizaron visualizaciones como las siguientes:
+Barras que muestran el Top 10 de categorías con mayores ventas
+Evolución Histórica de Ventas
+Gráfico de anillo compare el total de transacciones
+Evolución de Ventas vs. Año Anterior
+Gráfico de Cascada de Crecimiento MoM
+
+A continuación se presentan algunos screenshots del dashboard realizado.
+
+
+![Análisis de Ganancias y Ventas por Segmento](./images/ganancia_ventas.png)
+
+### ⚙️ Ingeniería de Características y Preparación para Machine Learning
+Para garantizar la calidad de los datos antes de ser transferidos a un modelo predictivo de Machine Learning, se aplicaron las siguientes técnicas de ingeniería de características:
+* **Codificación de Variables:** Se transformaron las variables categóricas mediante la técnica de *One-Hot Encoding*.
+* **Control de Multicolinealidad:** Se evaluó el Factor de Inflación de la Varianza (**VIF**) para identificar y remover características altamente correlacionadas, asegurando la estabilidad de un futuro modelo.
+
+Aquí se puede observar la estructura final de relaciones del conjunto de datos procesado (pasamos de 10 carácteristicas a 7):
+
+![Matriz de Correlación Final](./images/matriz_correlacion.png)
+
+
+
+## 📝 2. Análisis de Datos Financieros
 
 En este proyecto se realizó un análisis exhaustivo de datos financieros utilizando **Python** y su ecosistema de librerías especializadas, cubriendo desde la preparación inicial de los datos hasta su puesta a punto para el modelado predictivo.
 
@@ -26,7 +58,7 @@ Aquí se puede observar la estructura final de relaciones del conjunto de datos 
 
 ---
 
-## 🛡️ 2. Análisis de Datos de Riesgo Crediticio
+## 🛡️ 3. Análisis de Datos de Riesgo Crediticio
 
 > 🚧 **Proyecto en Desarrollo**
 
