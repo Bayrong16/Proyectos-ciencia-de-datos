@@ -19,7 +19,9 @@ Gráfico de Cascada de Crecimiento MoM
 A continuación se presentan algunos screenshots del dashboard realizado.
 
 
-![Análisis de Ganancias y Ventas por Segmento](./images/ganancia_ventas.png)
+![Dashboar principal](./images/dsh_principal.png)
+![Dashboar principal](./images/dash_01.png)
+![Dashboar principal](./images/dash_02.png).
 
 ### ⚙️ Ingeniería de Características y Preparación para Machine Learning
 Para garantizar la calidad de los datos antes de ser transferidos a un modelo predictivo de Machine Learning, se aplicaron las siguientes técnicas de ingeniería de características:
