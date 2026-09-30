@@ -30,10 +30,10 @@ Este gráfico permite identificar cuáles son las plantas que presentan mayor ti
 ![Análisis de Indisponibilidades](./images/dash_op1.png)
 
 **Gráfico de matriz para identificar de forma ágil y clara las centrales de generación con más eventos. La escala de color ayuda en gran medida**
-![Análisis de Indisponibilidades] (./images/dash_op2.png)
+![Análisis de Indisponibilidades] (./images/dash_op_2.png)
 
 **Gráfico de línea para contrastar y comparar el número de eventos através de los años de análisis**
-![Análisis de Indisponibilidades] (./images/dash_op3.png)
+![Análisis de Indisponibilidades] (./images/dash_op_3.png)
 
 
 
