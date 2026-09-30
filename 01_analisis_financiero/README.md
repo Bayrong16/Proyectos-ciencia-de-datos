@@ -23,6 +23,9 @@ A continuación se presentan algunos screenshots del dashboard realizado.
 ![Dashboar principal](./images/dash_01.png)
 ![Dashboar principal](./images/dash_02.png).
 
+Modelo de datos:
+![Dashboar principal](./images/modelo_pbi.png).
+
 ## 📝 2. Análisis de Datos Financieros
 
 En este proyecto se realizó un análisis exhaustivo de datos financieros utilizando **Python** y su ecosistema de librerías especializadas, cubriendo desde la preparación inicial de los datos hasta su puesta a punto para el modelado predictivo.
