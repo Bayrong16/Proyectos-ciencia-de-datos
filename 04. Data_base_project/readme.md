@@ -4,6 +4,7 @@ Este proyecto es una solución integral que abarca desde el modelado y poblamien
 
 ---
 ![Texto alternativo de la imagen](04. Data_base_project/images/postgreesql_esquema.png)
+![esquema SQL implementado](./images/postgreesql_esquema.png)
 
 ## 📌 Resumen del Flujo de Trabajo
 
