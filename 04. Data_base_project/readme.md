@@ -25,6 +25,7 @@ El desarrollo se realizó de manera secuencial siguiendo las mejores prácticas 
      - **EA (Energía Activa):** Liquidación del consumo base.
      - **EC (Excedentes de Comercialización):** Liquidación de la inyección base.
      - **EE1 y EE2 (Excedentes Tipo 1 y Tipo 2):** Algoritmo acumulativo por hora cruzado con el precio de bolsa de energía (XM).
+![esquema consultao](./images/consulta.png)
 
 4. **Desarrollo y Exposición de la API con FastAPI:**
    - Construcción de endpoints `POST` y `GET` para consultar facturas, evaluar conceptos específicos, obtener métricas por cliente y consultar la curva de carga horaria del sistema.
