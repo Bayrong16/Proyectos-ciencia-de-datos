@@ -17,6 +17,7 @@ El desarrollo se realizó de manera secuencial siguiendo las mejores prácticas 
    - Construcción del esquema relacional (6 tablas: `records`, `services`, `tariffs`, `consumption`, `injection`, `xm_data_hourly_per_agent`).
    - Definición de llaves primarias, foráneas e índices para optimizar las consultas de grandes volúmenes de series de tiempo.
    - Importación de los datos limpios desde los archivos `.csv` a las tablas correspondientes.
+   - -la base de datos creada está disponible para su uso; consultar: base_datos_energia.sql 
 
 3. **Lógica de Negocio y Consultas Complejas en Python:**
    - Creación de scripts en Python utilizando **SQLAlchemy** y **Pandas** para ejecutar consultas optimizadas con `JOIN` y `LEFT JOIN`.
