@@ -72,16 +72,22 @@ pip install -r requirements.txt
 ---
 
 ### 3. Probar Funciones Locales (Opcional)
-Puedes verificar el funcionamiento de las consultas y la lógica de negocio ejecutando los scripts de prueba:
+Puedes verificar el funcionamiento de las consultas y la lógica de negocio ejecutando el script principal:
 ```bash
-python funcion_conceptos_factura.py
-python pruebas_factura.py
+- python funcion_conceptos_factura.py , el cual contiene todo el código y lógica de los conceptos de la factura;
+
+adémas en la carpeta de "otros" encuentras:
+-prueba_factura.py  para probar en otro script el funcionamiento del principal;
+-archivo extraer_consulta_general.py sirve para obtener en un .csv la consulta principal útil para su posterior análisis y verificación;
+-archivos .csv de consulta y resultado,  obtenidos en pruebas locales.
+
 ```
 
 ---
 
 ### 4. Iniciar el Servidor de la API (FastAPI)
-En la terminal de PowerShell dentro de VS Code, ejecuta el servidor ASGI **Uvicorn** en el puerto 8000:
+Asegurate de ejecutar el archivo main.py. el cual contiene todo el código y lógica de la API implementada.
+Luego en la terminal de PowerShell dentro de VS Code, utilizando un temrinal adicional, ejecuta el servidor ASGI **Uvicorn** en el puerto 8000:
 
 ```bash
 python -m uvicorn main:app --reload --port 8000
