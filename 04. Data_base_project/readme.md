@@ -3,7 +3,7 @@
 Este proyecto es una solución integral que abarca desde el modelado y poblamiento de una base de datos relacional en **PostgreSQL**, pasando por la implementación de reglas de negocio para la liquidación tarifaria de energía, hasta la exposición de una **API RESTful** construida con **FastAPI**.
 
 ---
-![Texto alternativo de la imagen](ruta/a/tu/imagen.jpg)
+![Texto alternativo de la imagen](04. Data_base_project/images/postgreesql_esquema.png)
 
 ## 📌 Resumen del Flujo de Trabajo
 
