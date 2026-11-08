@@ -48,6 +48,7 @@ El desarrollo se realizó de manera secuencial siguiendo las mejores prácticas 
 ### 1. Requisitos Previos
 - Python 3.9+
 - Motor de base de datos PostgreSQL activo.
+- Recuperar base de datos (ase_datos_energia.sql) utilizando PosgresSQL para tener las tablas correctas para el uso del programa.
 
 ### 2. Instalación del Entorno
 ```bash
