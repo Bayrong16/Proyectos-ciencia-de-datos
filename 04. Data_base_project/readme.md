@@ -79,6 +79,8 @@ pip install -r requirements.txt
 ### 3. Probar Funciones Locales (Opcional)
 Puedes verificar el funcionamiento de las consultas y la lógica de negocio ejecutando el script principal:
 ```bash
+
+#Importante que coloques tus credenciales en :  db_uri = 'postgresql+psycopg2://postgres:**TU_CLAVE**@localhost:**TU_SERVIDOR**/**NOMBRE_DE_TU_BD**'
 - python funcion_conceptos_factura.py , el cual contiene todo el código y lógica de los conceptos de la factura;
 al final se encuentran algunas pruebas de errores realizadas.
 
